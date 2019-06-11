@@ -6,7 +6,7 @@
 //
 
 
-package https.www_howtodoinjava_com.xml.school;
+package com.howtodoinjava.xml.school;
 
 import javax.xml.bind.annotation.XmlRegistry;
 

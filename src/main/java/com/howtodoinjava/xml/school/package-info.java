@@ -6,4 +6,4 @@
 //
 
 @javax.xml.bind.annotation.XmlSchema(namespace = "https://www.howtodoinjava.com/xml/school", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
-package https.www_howtodoinjava_com.xml.school;
+package com.howtodoinjava.xml.school;
